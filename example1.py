@@ -1,1 +1,3 @@
-print("My name is Alex")
+file=open("file.txt", "w")
+file.write("Hello")
+file.close()
