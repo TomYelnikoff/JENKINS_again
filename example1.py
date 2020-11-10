@@ -1,3 +1,3 @@
-file=open("file.txt", "w")
-file.write("Hello")
+file=open("file1.txt", "w")
+file.write("Hello2")
 file.close()
